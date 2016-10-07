@@ -36,6 +36,8 @@ console.log("Welcome to JS Flash Cards. To play, just enter the correct term for
 
 // setting
 var i = 0
+// var answer = "";
+// settinganswer = "";
 
 // proses reqursiv
 function permainan(answer){
@@ -57,4 +59,4 @@ function permainan(answer){
   }
 }
 
-permainan()
+permainan("")
